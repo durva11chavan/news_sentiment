@@ -1,2 +1,3 @@
 # news_sentiment
-After installation, this extension integrates a button into the Document Object Model (DOM) of the LinkedIn connections page, enabling users to easily retrieve and scrape data from their LinkedIn connections.
+Conducted sentiment analysis on financial news headlines using NLP, derived word frequencies for sentiment categories, and built a robust bag-of-words model, training diverse classification models for efficient sentiment classification. 
+
